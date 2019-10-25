@@ -1,0 +1,23 @@
+{
+  "name": "zeroc-ice-nodejs",
+  "version": "1.0.0",
+  "description": "ZeroC ICE nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedriccefc2002/zeroc-ice-nodejs.git"
+  },
+  "author": "",
+  "license": "GPL2",
+  "bugs": {
+    "url": "https://github.com/cedriccefc2002/zeroc-ice-nodejs/issues"
+  },
+  "homepage": "https://github.com/cedriccefc2002/zeroc-ice-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^12.11.7",
+    "typescript": "^3.6.4"
+  }
+}
